@@ -93,7 +93,7 @@ export default function Sports() {
                                 </button>
                             </div>
                             <div className="p-2 overflow-auto bg-gray-100 flex items-center justify-center h-full">
-                                <img src="/assets/certificate.jpg" alt="Certificate" className="max-w-full h-auto shadow-md" />
+                                <img src="/assets/certificate.jpeg" alt="Certificate" className="max-w-full h-auto shadow-md" />
                             </div>
                         </motion.div>
                     </motion.div>
@@ -102,3 +102,4 @@ export default function Sports() {
         </section>
     );
 }
+
